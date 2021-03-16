@@ -1,5 +1,5 @@
 # Udemy_WebScraper
 
-ex)
+ㅊommand line interface |
 python main.py --keyword 'datascience' --pages 50
 
