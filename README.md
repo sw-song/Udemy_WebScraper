@@ -6,4 +6,4 @@
 > python main.py --keyword 'datascience' --pages 50
 ```
 
-Python/selenium -> Web -> beautifulsoup/Data -> PostgresSQL/DB
+Python/selenium -> Web -> beautifulsoup/Data -> PostgreSQL/DB
