@@ -1,6 +1,5 @@
 # Udemy_WebScraper
 
-Command line interface |example
-
-python main.py --keyword 'datascience' --pages 50
+(ex) in Command Line Interface
+>> python main.py --keyword 'datascience' --pages 50
 
